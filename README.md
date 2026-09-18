@@ -2,7 +2,7 @@
 
 A simple, fun car-dodging game built with **Pygame**. Your goal is to move your car left and right to avoid incoming enemy cars while the game gradually becomes faster and more challenging.
 
-This project is perfect for beginners learning game development, Pygame basics, and simple logic such as collision detection, movement, and difficulty scaling.
+This project is perfect for beginners learning game development, Pygame basics, and simple logic such as collision detection, movement, and difficulty scaling :)
 
 ---
 
